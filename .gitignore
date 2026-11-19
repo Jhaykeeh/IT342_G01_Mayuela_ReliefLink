@@ -1,0 +1,11 @@
+# secrets
+.env
+*.local.properties
+application-local.properties
+# backend
+backend/target/
+.idea/
+*.iml
+# web
+web/node_modules/
+web/dist/
